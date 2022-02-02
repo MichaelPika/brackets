@@ -15,5 +15,5 @@ module.exports = function check(str, bracketsConfig) {
   if(count == 0){
     result = true;
   }
-  return true; 
+  return result; 
 }
